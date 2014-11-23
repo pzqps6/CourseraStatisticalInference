@@ -1,0 +1,4 @@
+CourseraStatisticalInference
+============================
+
+Coursera Stastical Inference
